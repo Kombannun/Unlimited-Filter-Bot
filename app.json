@@ -10,7 +10,7 @@
     ],
     "website": "https://Kombannunu.me",
     "repository": "https://github.com/Kombannun/Unlimited-Filter-Bot"
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://telegram.dog/Kombannunu",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
